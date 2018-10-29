@@ -1,0 +1,6 @@
+
+### 1. CartService
+### 2. ProductItemComponent
+### 3. shoppingList 
+
+reference: https://blog.cloudboost.io/build-simple-shopping-cart-with-angular-4-observables-subject-subscription-part-2-2d3735cde5f
